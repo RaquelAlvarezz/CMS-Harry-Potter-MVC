@@ -24,6 +24,9 @@
 13. Finalmente, ejecutamos el ejercicio con Laragon.
 
 ## Capturas de la página:
+![Noticias Harry Potter](https://user-images.githubusercontent.com/91055857/150091698-b3dbd056-c5c5-4760-9318-a1b53211182e.png)
+![Noticias Harry Potter 2](https://user-images.githubusercontent.com/91055857/150091944-a7f6c9ae-1dc0-43d1-bbbf-32cd70819d6b.png)
+![Panel de administración Harry Potter](https://user-images.githubusercontent.com/91055857/150092138-8a0da3b4-9192-449d-9c45-4083b9e507f9.png)
 
 
     
